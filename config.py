@@ -1,0 +1,1 @@
+BASE_LINK = 'https://berlin.craigslist.org/search/jjj?s='
